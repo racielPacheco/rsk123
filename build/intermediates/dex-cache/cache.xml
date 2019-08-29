@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/erikku/Documents/TesisWT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="89ffed0d2a5610b9be547a0c274f9c5a2ae8b654">
+        <dex dex="/Users/erikku/Documents/TesisWT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_62e363fb50828869cd749e1c5da050fd0403ed04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erikku/Documents/TesisWT/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/erikku/Documents/TesisWT/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_a1b245aeeb13274abb831aa4e7b455a1a357bbd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erikku/Documents/TesisWT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae8f428e5cdfa875d8b7f60000ea0332bd025b83">
+        <dex dex="/Users/erikku/Documents/TesisWT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb158368814983ca6dac56421e73e42735dd606a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erikku/Documents/TesisWT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/erikku/Documents/TesisWT/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_8e667c2e19366713efe712c37c8a8ec9958cf8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erikku/Documents/TesisWT/app/build/intermediates/exploded-aar/TesisWT/worktogether/unspecified/jars/libs/java-json.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d82e23e816eb939bbfb7663a368fa61f38e174ad">
+        <dex dex="/Users/erikku/Documents/TesisWT/app/build/intermediates/transforms/dex/debug/folders/1000/8/java-json_2f31367f4911800dbe909a7d67daf6739cf36dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erikku/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/erikku/Documents/TesisWT/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_e3ae5b8cdff9198423e01f892935cb67f7140fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erikku/Documents/TesisWT/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/erikku/Documents/TesisWT/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_9364615cd20e4ad586a1d756e62a297645d1af64/classes.dex" />
+    </item>
+
+</items>
